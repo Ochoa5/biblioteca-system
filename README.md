@@ -575,7 +575,7 @@ Distribuido bajo la Licencia MIT. Ver `LICENSE` para más información.
 
 ## 📞 Contacto
 
-**Link del Proyecto:** [https://github.com/TU_USUARIO/biblioteca-system](https://github.com/Ochoa5/biblioteca-system)
+**Link del Proyecto:** [https://github.com/Ochoa5/biblioteca-system](https://github.com/Ochoa5/biblioteca-system)
 
 ---
 
