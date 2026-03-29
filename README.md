@@ -211,12 +211,6 @@ BibliotecaSystem/
 │   └── util/                               # Utilidades
 │       └── Validador.java                  # Validaciones centralizadas
 │
-├── docs/                                   # Documentación
-│   ├── GUIA_INTELLIJ.md
-│   ├── GUIA_SUSTENTACION.md
-│   ├── DIAGRAMAS.md
-│   └── GUION_EXPLICACION.md
-│
 ├── .gitignore
 ├── LICENSE
 └── README.md
